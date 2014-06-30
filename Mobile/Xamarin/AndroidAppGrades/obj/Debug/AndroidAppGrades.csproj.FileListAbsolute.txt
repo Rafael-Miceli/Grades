@@ -1,0 +1,27 @@
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\bin\Debug\AndroidAppGrades.dll
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\bin\Debug\AndroidAppGrades.pdb
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\bin\Debug\AndroidAppGrades.dll.mdb
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\bin\Debug\AndroidAppGrades.AndroidAppGrades.apk
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\bin\Debug\AndroidAppGrades.AndroidAppGrades-Signed.apk
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\AndroidAppGrades.dll
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\AndroidAppGrades.pdb
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\android\bin\AndroidAppGrades.AndroidAppGrades.apk
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\res\layout\main.xml
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\res\values\strings.xml
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\res\drawable\icon.png
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\R.cs.flag
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\Grades\AndroidAppGrades\obj\Debug\uploadflags.txt
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\bin\Debug\AndroidAppGrades.dll
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\bin\Debug\AndroidAppGrades.pdb
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\bin\Debug\AndroidAppGrades.dll.mdb
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\bin\Debug\AndroidAppGrades.AndroidAppGrades.apk
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\bin\Debug\AndroidAppGrades.AndroidAppGrades-Signed.apk
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\AndroidAppGrades.csprojResolveAssemblyReference.cache
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\AndroidAppGrades.dll
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\AndroidAppGrades.pdb
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\android\bin\AndroidAppGrades.AndroidAppGrades.apk
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\res\layout\main.xml
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\res\values\strings.xml
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\res\drawable\icon.png
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\R.cs.flag
+C:\Users\rafael.miceli\Documents\GitHub\Grades\Mobile\Xamarin\AndroidAppGrades\obj\Debug\uploadflags.txt
